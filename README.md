@@ -1,4 +1,4 @@
-# Template for Isaac Lab Projects DIFF
+# Template for Isaac Lab Projects
 
 ## Overview
 
