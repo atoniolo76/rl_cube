@@ -11,7 +11,7 @@ It allows you to develop in an isolated environment, outside of the core Isaac L
 - `Flexibility` This template is set up to allow your code to be run as an extension in Omniverse.
 
 **Keywords:** extension, template, isaaclab
-
+`
 ## Installation
 
 - Install Isaac Lab by following the [installation guide](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/index.html).
